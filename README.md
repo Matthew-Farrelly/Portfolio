@@ -7,6 +7,11 @@ BACHELOR OF PSYCHOLOGY (HONOURS) | 2021-2022 | CHARLES STURT UNIVERSITY
 
 BACHELOR OF SCIENCE - PSYCHOLOGY | 2016-2020 | MACQUARIE UNIVERSITY
 
+## Projects
+
+#### Football
+I have played football for over twenty years in Australia and have a great understanding of most levels of the sport. Growing up I was part of many youth events including local gala days, school tournaments, Strikers Cup and Kanga Cup. I later went on to play in the reserve and first grade squad at my local club and more recently have been playing in all age divisions. I’ve watched my two sisters go through various levels and football initiatives from NPL to State Championships to Project 22. I was there for the beginning of the A-league and still follow it to this day, I keep up to date with both men and women’s national teams as well as a variety of tournaments and leagues across the rest of the world.
+
 ### University Courses and Experiences
 My academic background and experience have equipped me with the skills and knowledge to be successful in this role. I graduated from Macquarie university in 2020 with a Bachelor of Science (Psychology) with a GPA of over 3.5 (on a 4-point scale). I then undertook an Honours year at Charles Sturt University on a full scholarship and was awarded an Executive Dean’s Award in recognition of the Honours 1st class grade I received for my dissertation. My degrees were heavily focused on statistics, and I opted to take additional statistics courses with my free electives to deepen my knowledge in the field.
 
@@ -70,8 +75,8 @@ Grade Achieved: High Distinction
 
 ## Hobbies & Projects
 
-#### Football
-I have played football for over twenty years in Australia and have a great understanding of most levels of the sport. Growing up I was part of many youth events including local gala days, school tournaments, Strikers Cup and Kanga Cup. I later went on to play in the reserve and first grade squad at my local club and more recently have been playing in all age divisions. I’ve watched my two sisters go through various levels and football initiatives from NPL to State Championships to Project 22. For my first job I became a cadet referee and experienced football from the perspective of a referee, for the first time I got to see the behind-the-scenes management and organisation of the sport. I was there for the beginning of the A-league and still follow it to this day, I keep up to date with both men and women’s national teams as well as a variety of tournaments and leagues across the rest of the world.
-
 #### Game Developement
+As a hobby i have been self-learning C+ and have numerous projects completed and ongoing projectsin GameMaker studio 2 and Unreal Engine 4.
 
+
+Pirate Software - Game Jam 15
