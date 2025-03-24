@@ -11,13 +11,13 @@ BACHELOR OF SCIENCE - PSYCHOLOGY | 2016-2020 | MACQUARIE UNIVERSITY
 My academic background and experience have equipped me with the skills and knowledge to be successful in this role. I graduated from Macquarie university in 2020 with a Bachelor of Science (Psychology) with a GPA of over 3.5 (on a 4-point scale). I then undertook an Honours year at Charles Sturt University on a full scholarship and was awarded an Executive Dean’s Award in recognition of the Honours 1st class grade I received for my dissertation. My degrees were heavily focused on statistics, and I opted to take additional statistics courses with my free electives to deepen my knowledge in the field.
 
 #### THESIS
-·	My project involved a two-part study analysing health data with accompanying face portraits of several hundred participants collected across three countries. All data was collected in Excel and merged, cleaned and analysed in RStudio.
-·	Statistical analyses used were Hierarchical Linear Regression, Procrustes Analysis, Parrel Analysis and Principals Components Analysis.
+-	My project involved a two-part study analysing health data with accompanying face portraits of several hundred participants collected across three countries. All data was collected in Excel and merged, cleaned and analysed in RStudio.
+-	Statistical analyses used were Hierarchical Linear Regression, Procrustes Analysis, Parrel Analysis and Principals Components Analysis.
 Primary Statistical Software- R
 Grade Achieved: H1 1st Class Honours 
 
 #### STAT270 APPLIED STATISTICS
-·	Introduction to the R programming language.
+-	Introduction to the R programming language.
 ·	Focused on the application of statistics to real-world analysis. 
 ·	Topics included Data management, report writing, graphical presentation of results, and power analysis. 
 Primary Statistical Software- R
