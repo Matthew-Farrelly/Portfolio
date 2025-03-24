@@ -1,7 +1,7 @@
-### Professional Summary
+## Professional Summary
 Diligent and highly motivated honours psychology graduate with a strong background in statistical analysis methods and reporting. Tech savvy, proficient in the R programming Language with training in handling and analysing data in Excel, SPSS, Minitab and Stata. I am a quick learner of new software and willing to learn any new software and techniques necessary to build a successful career. Seeking to apply my analytical skills to a challenging role.
 
-### Eductaion
+## Eductaion
 
 BACHELOR OF PSYCHOLOGY (HONOURS) | 2021-2022 | CHARLES STURT UNIVERSITY
 
@@ -67,3 +67,11 @@ Grade Achieved: Distinction
 Primary Statistical Software- Excel/Minitab
 
 Grade Achieved: High Distinction 
+
+## Hobbies & Projects
+
+#### Football
+I have played football for over twenty years in Australia and have a great understanding of most levels of the sport. Growing up I was part of many youth events including local gala days, school tournaments, Strikers Cup and Kanga Cup. I later went on to play in the reserve and first grade squad at my local club and more recently have been playing in all age divisions. I’ve watched my two sisters go through various levels and football initiatives from NPL to State Championships to Project 22. For my first job I became a cadet referee and experienced football from the perspective of a referee, for the first time I got to see the behind-the-scenes management and organisation of the sport. I was there for the beginning of the A-league and still follow it to this day, I keep up to date with both men and women’s national teams as well as a variety of tournaments and leagues across the rest of the world.
+
+#### Game Developement
+
