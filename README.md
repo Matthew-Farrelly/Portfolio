@@ -1,12 +1,6 @@
 ## Professional Summary
 Diligent and highly motivated honours psychology graduate with a strong background in statistical analysis methods and reporting. Tech savvy, proficient in the R programming Language with training in handling and analysing data in Excel, SPSS, Minitab and Stata. I am a quick learner of new software and willing to learn any new software and techniques necessary to build a successful career. Seeking to apply my analytical skills to a challenging role.
 
-## Eductaion
-
-BACHELOR OF PSYCHOLOGY (HONOURS) | 2021-2022 | CHARLES STURT UNIVERSITY
-
-BACHELOR OF SCIENCE - PSYCHOLOGY | 2016-2020 | MACQUARIE UNIVERSITY
-
 ## Projects
 
 #### Football
