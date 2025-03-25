@@ -7,7 +7,7 @@ Diligent and highly motivated honours psychology graduate with a strong backgrou
 I have played football for over twenty years in Australia and have a great understanding of most levels of the sport. Growing up I was part of many youth events including local gala days, school tournaments, Strikers Cup and Kanga Cup. I later went on to play in the reserve and first grade squad at my local club and more recently have been playing in all age divisions. I’ve watched my two sisters go through various levels and football initiatives from NPL to State Championships to Project 22. I was there for the beginning of the A-league and still follow it to this day, I keep up to date with both men and women’s national teams as well as a variety of tournaments and leagues across the rest of the world.
 ##### Project
 - <b>Interactive pass map using ShinyApps</b>
-  - [Interactive Pass Map] (https://github.com/Matthew-Farrelly/Portfolio/Project-Pass-Map)
+  - [Interactive Pass Map] (https://github.com/Matthew-Farrelly/Portfolio)
 
   
 #### Game Developement
